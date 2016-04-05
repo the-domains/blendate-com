@@ -1,0 +1,28 @@
+name: blendate.com
+favicon: null
+layout_spectrum: 0.25768280192278326
+typography_spectrum: 0.009668592130765319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2192994577344507
+  lightness: 0.9693416066002101
+  saturation: 0.07723546423949301
+  rhythmicContrast: 0.6285988322924823
+purpose: []
