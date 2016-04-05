@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T04:01:13.946Z'
-dateModified: '2016-04-05T03:58:49.598Z'
+datePublished: '2016-04-05T05:31:44.432Z'
+dateModified: '2016-04-05T05:31:07.437Z'
 title: BLENDATE.com
 author: []
 sourcePath: _posts/2016-04-05-blendatecom.md
