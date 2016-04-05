@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Single Parents meet Single Parents]]></title>
+        <description><![CDATA[Single Parents meet Single Parents]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 03:55:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLENDATE.com]]></title>
+            <description><![CDATA[<article><h1>BLENDATE.com</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adba16e1-0455-4d66-993f-982c06f5ea58.jpg"></article>]]></description>
+            <link>undefinedblendatecom/index.html</link>
+            <guid isPermaLink="false">206f2c29-8951-42e7-9001-92deaeca8561</guid>
+            <pubDate>Tue, 05 Apr 2016 03:55:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
