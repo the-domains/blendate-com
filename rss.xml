@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Single Parents meet Single Parents]]></title>
         <description><![CDATA[Single Parents meet Single Parents]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blendate-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 03:55:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 04:01:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blendate-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BLENDATE.com]]></title>
             <description><![CDATA[<article><h1>BLENDATE.com</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adba16e1-0455-4d66-993f-982c06f5ea58.jpg"></article>]]></description>
-            <link>undefinedblendatecom/index.html</link>
+            <link>https://thegrid.ai/blendate-com/blendatecom/index.html</link>
             <guid isPermaLink="false">206f2c29-8951-42e7-9001-92deaeca8561</guid>
-            <pubDate>Tue, 05 Apr 2016 03:55:34 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 04:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
